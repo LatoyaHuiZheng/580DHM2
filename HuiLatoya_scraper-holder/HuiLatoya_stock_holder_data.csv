@@ -1,0 +1,2 @@
+stock_name,regularMarketPrice,regularMarketChange,regularMarketChangePercent,quote,previous_close,open_value,bid,ask,days_range,week_range,volume,avg_volume,market_cap,beta,pe_ratio,eps,earnings_date,dividend_yield,ex_dividend_date,year_target_est
+"Tesla, Inc. (TSLA)",200.45,+11.74,(+6.22%),At close:  04:00PM EST,188.71,189.16,200.38 x 1300,200.60 x 1000,188.86 - 200.88,152.37 - 299.29,"119,932,134",200.38 x 1300,638.391B,2.43,46.62,4.30,"Apr 17, 2024 - Apr 22, 2024",N/A (N/A),N/A,207.75
